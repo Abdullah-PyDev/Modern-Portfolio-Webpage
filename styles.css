@@ -221,6 +221,16 @@ html {
     box-shadow: var(--neon-glow);
 }
 
+.card a {
+    color: var(--accent);
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.card a:hover {
+    text-shadow: var(--neon-text-glow);
+}
+
 .hobbies-container {
     background: var(--bg);
     border-radius: var(--radius);
@@ -587,6 +597,14 @@ html {
 }
 
 .muted{color:var(--muted)}
+.muted a {
+    color: var(--accent);
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+.muted a:hover {
+    text-shadow: var(--neon-text-glow);
+}
 
 /* Contact Section & Form styles */
 .contact-section {
