@@ -102,8 +102,8 @@ MIT License - feel free to use this project for your own portfolio!
 
 ## 👤 Author
 
-Created by [Abdullah Shafiq](mailto:abdullahshafiq146@gmail.com)
+Created by [Abdullah Shafiq](mailto:f250039@cfd.nu.edu.pk)
 
 ## 🌐 Live Demo
 
-[View Live Demo](#) <!-- Add your live demo link when deployed -->
+[View Live Demo](https://abdullah-pydev.github.io/Modern-Portfolio-Webpage/) <!-- Add your live demo link when deployed -->
